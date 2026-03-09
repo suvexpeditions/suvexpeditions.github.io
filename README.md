@@ -1,2 +1,0 @@
-# suvexpeditions.github.io
-suvexpeditions
